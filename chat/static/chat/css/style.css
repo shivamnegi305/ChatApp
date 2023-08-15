@@ -1,0 +1,104 @@
+body{
+
+background: grey;
+
+
+
+
+}
+
+#bg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#bg2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+
+h3{
+
+
+    font-size: 40px;
+    color: white;
+
+
+    margin-bottom: 90px
+
+
+
+
+
+
+}
+
+
+.form-group{
+         color: white;
+
+         font-size: 32px;
+         padding: 10px 20px;
+
+
+}
+
+
+
+h1{
+
+ text-align :center;
+ color: white;
+
+ font-size: 70px;
+
+ }
+
+ h4{
+
+ text-align :center;
+ color: white;
+
+ font-size: 37px;
+
+
+
+ }
+
+
+
+.logout{
+
+   text-align :center;
+
+    font-size:35px;}
+
+
+
+.chat__item__container{
+
+   text-align :center;
+
+   color: yellow;
+
+   font-size: 40px
+
+
+}
+
+#id_message_send_input{
+
+font-size: 40px
+}
+
+
+
+#id_message_send_button{
+font-size: 40px
+}
